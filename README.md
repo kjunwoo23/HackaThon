@@ -1,6 +1,6 @@
 # HackaThon
 ## 플레이 영상
-[![Video Label](http://img.youtube.com/vi/ttBhhVbIgeI/0.jpg)](https://youtu.be/ttBhhVbIgeI)
+[![Video Label](http://img.youtube.com/vi/ttBhhVbIgeI/0.jpg)](https://youtu.be/ttBhhVbIgeI){:target="_blank"}
  
 ### 개발 성과
 
